@@ -1,0 +1,22 @@
+.btnLarge{
+    font-size: 20px;
+    font-family: "ABInBevHeadlines", sans-serif !important;
+    font-weight: 500;
+    padding-top: 10px!important;
+    padding-bottom: 10px!important;
+}
+.lbl-btn{ 
+    padding-left:32px;
+    padding-right: 32px;
+}
+.bnt-ob-disable{
+    font-size: 20px;
+    font-family: "ABInBevHeadlines", sans-serif !important;
+    font-weight: 500;
+    padding-top: 10px!important;
+    padding-bottom: 10px!important;
+    background-color: rgb(220,220,220);
+    color: rgb(173,174,182);
+    border: solid 1px rgb(173,174,182);
+    box-shadow: none!important;
+}
