@@ -7,7 +7,7 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ViewModelButtonsComponent } from './view-model-buttons/view-model-buttons.component';
 import { ButtonRaisedComponent } from './components/buttons/primary/raised/button-raised/button-raised.component';
-import { IconRaisedButtonComponent } from './components/buttons/primary/raised/button-raised/icon-raised-button/icon-raised-button.component';
+import { IconRaisedButtonComponent } from './components/buttons/primary/raised/icon-raised-button/icon-raised-button.component';
 
 
 
