@@ -1,20 +1,20 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { StandardPlusIconComponent } from './standard-plus-icon.component';
+import { IconRaisedButtonComponent } from './icon-raised-button.component';
 
-describe('StandardPlusIconComponent', () => {
-  let component: StandardPlusIconComponent;
-  let fixture: ComponentFixture<StandardPlusIconComponent>;
+describe('IconRaisedButtonComponent', () => {
+  let component: IconRaisedButtonComponent;
+  let fixture: ComponentFixture<IconRaisedButtonComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ StandardPlusIconComponent ]
+      declarations: [ IconRaisedButtonComponent ]
     })
     .compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(StandardPlusIconComponent);
+    fixture = TestBed.createComponent(IconRaisedButtonComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
