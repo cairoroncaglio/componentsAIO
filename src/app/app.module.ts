@@ -8,6 +8,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ViewModelButtonsComponent } from './view-model-buttons/view-model-buttons.component';
 import { ButtonRaisedComponent } from './components/buttons/primary/raised/button-raised/button-raised.component';
 import { IconRaisedButtonComponent } from './components/buttons/primary/raised/icon-raised-button/icon-raised-button.component';
+import { ButtonStrokedComponent } from './components/buttons/secundary/stroked/button-stroked/button-stroked.component';
+import { IconStrokedButtonComponent } from './components/buttons/secundary/stroked/icon-stroked-button/icon-stroked-button.component';
 
 
 
@@ -16,7 +18,9 @@ import { IconRaisedButtonComponent } from './components/buttons/primary/raised/i
     AppComponent,
     ViewModelButtonsComponent,
     ButtonRaisedComponent,
-    IconRaisedButtonComponent
+    IconRaisedButtonComponent,
+    ButtonStrokedComponent,
+    IconStrokedButtonComponent
   ],
   imports: [
     BrowserModule,
